@@ -1,0 +1,46 @@
+Cronograma y Porcentajes
+
+1er Examen ----------------------------------- 18-19 Junio   20%
+1er Entregable del Proyecto ------------ 13 Junio                   30% de la nota del Proyecto
+2do Examen (Final) ------------------------ 24-25 Julio    30%
+2do Entregable del Proyecto (Final) - 23-24 Julio    25%     70% de la nota del Proyecto
+Nota de Prácticas                                                10%
+Nota de Laboratorios                                            15%
+                                                                        ---------
+                                                                         100%
+Examen Aplazados            31 Julio
+
+Formato de Exámenes:    80% De respuesta múltiple y 20% Ejercicios prácticos
+El último examen es de todo el curso.
+
+-----------------------------------------------------------------------------------------------
+
+Proyecto Final (8 semanas de desarrollo aprox.)
+
+Elementos Clave: Seguridad, Rendimiento, Concurrencia
+
+Funcionalidades mínimas:
+- Registro de usuarios
+- Catálogo de Productos
+- Búsqueda
+- Carrito de Compras
+- Manejo de Sesiones
+- 100 Item's cargados mínimo
+
+Modelo de alto nivel
+
+Contenido del 1er Entregable
+- Plan de Desarrollo
+- Documento de Análisis de Requerimientos
+- Documento de Arquitectura de Software
+
+Contenido del 2do Entregable
+- 1er Entregable corregido
+- Documento de Diseño de Software
+- Modelo Entidad-Relación y Diccionario de Datos
+- Código Fuente documentado
+- Informe de Pruebas de Software
+- Archivos de Despliegue
+- Manual de Instalación
+
+Modo de entrega: Impresión + CD
