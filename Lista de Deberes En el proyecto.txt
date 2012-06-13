@@ -1,0 +1,33 @@
+Delegados para cada uno de las secciones del trabajo
+
+1er Entregable (primera nota) para el 13 de Junio
+- Plan de Desarrolo Basico (PLantilla)
+        + Eddy
+        + Jose Miguel
+
+- Documento de Analisis de Requisitos (REM, Plantilla)
+        + Benjamin
+        + Solimar
+
+- Documento de Arquitectura de software
+        + Rommel
+        + Franci
+
+Este es la primera Parte para lo cual todos daremos a conocer nuestros avances el dia martes y jueves en las horas de ING de SW y para lo siguientes partes:
+
+
+1.1 Documento de Diseño
+1.2 Modelo E.R de Base y el diccionario de Datos
+     + Benjamin
+     + Solimar
+
+2.2 Codigo Fuente
+2.3 Informes de Software
+     + Rommel
+     + Franci
+
+3.3 Archivo de Despliegue de SW
+3.4 Guia de Instruccion
+     + Eddy
+     + Jose Miguel
+
