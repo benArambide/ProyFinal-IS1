@@ -1,0 +1,37 @@
+Computadoras Portatiles (Marcas)
+- DELL
+- Asus	
+- HP
+- Acer
+- Toshiba
+- Lenovo
+
+Computadora de escritorio
+- Asus
+- Compaq
+- Hp
+- toshiba
+
+IMpresoras
+- Cannon
+- Hp
+
+Libros electronicos
+- Kindle
+- Sony
+
+Tabletas
+- Hp
+- Lenovo
+- Motorola
+- Samsung
+
+Accesorios
+- Genius
+- Logitech
+
+
+
+
+
+
